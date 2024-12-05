@@ -1,0 +1,15 @@
+/* .container text-center{
+    background-image: linear-gradient(blue,white);
+    margin-top: 160px;
+}
+.col{
+    background-image: linear-gradient(blue,white);
+    margin-top:160px;
+}
+.parent{
+    background-image: linear-gradient(blue,white);
+    margin-top: 400px;
+} */
+ body{
+    background-image: linear-gradient(blue,white);
+ }
